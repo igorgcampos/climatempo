@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg>
+	<variableSets xmlns="&ns_vars;">
+		<variableSet locked="none" varSetName="binding1">
+			<variables>
+				<variable category="&ns_flows;" trait="textcontent" varName="textoBrasil"></variable>
+				<variable category="&ns_flows;" trait="textcontent" varName="textoRioDeJaneiro"></variable>
+				<variable category="&ns_flows;" trait="textcontent" varName="textoPraias"></variable>
+				<variable category="&ns_flows;" trait="textcontent" varName="textoOndas"></variable>
+				<variable category="&ns_flows;" trait="textcontent" varName="textoVentos"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="aracajuTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent" varName="belemTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="beloHorizonteTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="boaVistaTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="brasiliaTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="campoGrandeTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="cuiabaTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="curitibaTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="florianopolisTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="fortalezaTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="goianiaTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="joaoPessoaTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="macapaTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="maceioTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="manausTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent" varName="natalTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="palmasTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="portoAlegreTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="portoVelhoTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="recifeTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioBrancoTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="salvadorTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="saoLuisTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="saoPauloTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="teresinaTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="vitoriaTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="aracajuTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent" varName="belemTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="beloHorizonteTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="boaVistaTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="brasiliaTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="campoGrandeTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="cuiabaTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="curitibaTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="florianopolisTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="fortalezaTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="goianiaTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="joaoPessoaTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="macapaTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="maceioTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="manausTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent" varName="natalTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="palmasTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="portoAlegreTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="portoVelhoTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="recifeTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioBrancoTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="salvadorTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="saoLuisTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="saoPauloTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="teresinaTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="vitoriaTemperaturaMaxima"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="aracajuIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="belemIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="beloHorizonteIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="boaVistaIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="brasiliaIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="campoGrandeIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="cuiabaIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="curitibaIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="florianopolisIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="fortalezaIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="goianiaIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="joaoPessoaIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="macapaIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="manausIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="palmasIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="portoAlegreIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="portoVelhoIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="rioBrancoIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="salvadorIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="saoPauloIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="vitoriaIcone"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="belemTemperaturaMinima2"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="boaVistaTemperaturaMinima2"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="brasiliaTemperaturaMinima2"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="manausTemperaturaMinima2"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="palmasTemperaturaMinima2"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="portoVelhoTemperaturaMinima2"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="teresinaTemperaturaMinima2"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="belemTemperaturaMaxima2"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="boaVistaTemperaturaMaxima2"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="brasiliaTemperaturaMaxima2"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="manausTemperaturaMaxima2"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="palmasTemperaturaMaxima2"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="portoVelhoTemperaturaMaxima2"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="teresinaTemperaturaMaxima2"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="angraDosReisTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="araruamaTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="barraDoPiraiTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="barraMansaTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="bomJesusDoItabapoanaTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="buziosTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="caboFrioTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="cachoeirasDeMacacuTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="camposDosGoytacazesTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="casimiroDeAbreuTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="duqueDeCaxiasTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="itaperunaTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent" varName="macaeTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="maricaTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="mangaratibaTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="niteroiTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="novaFriburgoTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="paraibaDoSulTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="paratyTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="petropolisTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="porciunculaTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="resendeTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDasOstrasTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroTemperaturaMinima2"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="santaMariaMadalenaTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="santoAntonioDePaduaTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="saoFidelisTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="saoFranciscoDeItabapoanaTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="saoJoaoDaBarraTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="saquaremaTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="silvaJardimTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="teresopolisTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="valencaTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="viscondeDeMauaTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="voltaRedondaTemperaturaMinima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="angraDosReisTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="araruamaTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="barraDoPiraiTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="barraMansaTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="bomJesusDoItabapoanaTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="buziosTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="caboFrioTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="cachoeirasDeMacacuTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="camposDosGoytacazesTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="casimiroDeAbreuTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="duqueDeCaxiasTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="itaperunaTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent" varName="macaeTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="maricaTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="mangaratibaTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="niteroiTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="novaFriburgoTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="paraibaDoSulTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="paratyTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="petropolisTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="porciunculaTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="resendeTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDasOstrasTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroTemperaturaMaxima2"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="santaMariaMadalenaTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="santoAntonioDePaduaTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="saoFidelisTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="saoFranciscoDeItabapoanaTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="saoJoaoDaBarraTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="saquaremaTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="silvaJardimTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="teresopolisTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="valencaTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="viscondeDeMauaTemperaturaMaxima"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="voltaRedondaTemperaturaMaxima"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="angraDosReisIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="barraDoPiraiIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="bomJesusDoItabapoanaIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="buziosIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="caboFrioIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="camposDosGoytacazesIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="duqueDeCaxiasIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="itaperunaIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="macaeIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="maricaIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="novaFriburgoIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="paraibaDoSulIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="paratyIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="petropolisIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="porciunculaIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="resendeIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="rioDasOstrasIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="rioDeJaneiroIcone2"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="santaMariaMadalenaIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref"
+					varName="saoFranciscoDeItabapoanaIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="silvaJardimIcone"></variable>
+				<variable category="&ns_vars;" trait="fileref"
+					varName="rioDeJaneiroIconePrimeiroDia"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="rioDeJaneiroIconeSegundoDia"></variable>
+				<variable category="&ns_vars;" trait="fileref"
+					varName="rioDeJaneiroIconeTerceiroDia"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="rioDeJaneiroIconeQuartoDia"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="rioDeJaneiroIconeQuintoDia"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="rioDeJaneiroIconeSextoDia"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="rioDeJaneiroIconeSetimoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaSulTemperaturaMinimaPrimeiroDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaSulTemperaturaMinimaSegundoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaSulTemperaturaMinimaTerceiroDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaSulTemperaturaMinimaQuartoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaSulTemperaturaMinimaQuintoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaSulTemperaturaMinimaSextoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaSulTemperaturaMinimaSetimoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaSulTemperaturaMaximaPrimeiroDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaSulTemperaturaMaximaSegundoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaSulTemperaturaMaximaTerceiroDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaSulTemperaturaMaximaQuartoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaSulTemperaturaMaximaQuintoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaSulTemperaturaMaximaSextoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaSulTemperaturaMaximaSetimoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaNorteTemperaturaMinimaPrimeiroDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaNorteTemperaturaMinimaSegundoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaNorteTemperaturaMinimaTerceiroDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaNorteTemperaturaMinimaQuartoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaNorteTemperaturaMinimaQuintoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaNorteTemperaturaMinimaSextoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaNorteTemperaturaMinimaSetimoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaNorteTemperaturaMaximaPrimeiroDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaNorteTemperaturaMaximaSegundoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaNorteTemperaturaMaximaTerceiroDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaNorteTemperaturaMaximaQuartoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaNorteTemperaturaMaximaQuintoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaNorteTemperaturaMaximaSextoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaNorteTemperaturaMaximaSetimoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaOesteTemperaturaMinimaPrimeiroDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaOesteTemperaturaMinimaSegundoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaOesteTemperaturaMinimaTerceiroDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaOesteTemperaturaMinimaQuartoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaOesteTemperaturaMinimaQuintoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaOesteTemperaturaMinimaSextoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaOesteTemperaturaMinimaSetimoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaOesteTemperaturaMaximaPrimeiroDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaOesteTemperaturaMaximaSegundoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaOesteTemperaturaMaximaTerceiroDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaOesteTemperaturaMaximaQuartoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaOesteTemperaturaMaximaQuintoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaOesteTemperaturaMaximaSextoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroZonaOesteTemperaturaMaximaSetimoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroSensacaoTermicaMinimaPrimeiroDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroSensacaoTermicaMinimaSegundoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroSensacaoTermicaMinimaTerceiroDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroSensacaoTermicaMinimaQuartoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroSensacaoTermicaMinimaQuintoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroSensacaoTermicaMinimaSextoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroSensacaoTermicaMinimaSetimoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroSensacaoTermicaMaximaPrimeiroDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroSensacaoTermicaMaximaSegundoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroSensacaoTermicaMaximaTerceiroDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroSensacaoTermicaMaximaQuartoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroSensacaoTermicaMaximaQuintoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroSensacaoTermicaMaximaSextoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroSensacaoTermicaMaximaSetimoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroProbabilidadeDeChuvaPrimeiroDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroProbabilidadeDeChuvaSegundoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroProbabilidadeDeChuvaTerceiroDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroProbabilidadeDeChuvaQuartoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroProbabilidadeDeChuvaQuintoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroProbabilidadeDeChuvaSextoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="rioDeJaneiroProbabilidadeDeChuvaSetimoDia"></variable>
+				<variable category="&ns_flows;" trait="textcontent" varName="terceiroDiaDaSemana"></variable>
+				<variable category="&ns_flows;" trait="textcontent" varName="quartoDiaDaSemana"></variable>
+				<variable category="&ns_flows;" trait="textcontent" varName="quintoDiaDaSemana"></variable>
+				<variable category="&ns_flows;" trait="textcontent" varName="sextoDiaDaSemana"></variable>
+				<variable category="&ns_flows;" trait="textcontent" varName="setimoDiaDaSemana"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="RioDeJaneiroNascerDoSol"></variable>
+				<variable category="&ns_flows;" trait="textcontent" varName="RioDeJaneiroPorDoSol"></variable>
+				<variable category="&ns_flows;" trait="textcontent" varName="dataLuaCheia"></variable>
+				<variable category="&ns_flows;" trait="textcontent" varName="dataLuaMinguante"></variable>
+				<variable category="&ns_flows;" trait="textcontent" varName="dataLuaNova"></variable>
+				<variable category="&ns_flows;" trait="textcontent" varName="dataLuaCrescente"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="RioDeJaneiroMareAltura1"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="RioDeJaneiroMareAltura2"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="RioDeJaneiroMareAltura3"></variable>
+				<variable category="&ns_flows;" trait="textcontent"
+					varName="RioDeJaneiroMareAltura4"></variable>
+				<variable category="&ns_flows;" trait="textcontent" varName="RioDeJaneiroMareHora1"></variable>
+				<variable category="&ns_flows;" trait="textcontent" varName="RioDeJaneiroMareHora2"></variable>
+				<variable category="&ns_flows;" trait="textcontent" varName="RioDeJaneiroMareHora3"></variable>
+				<variable category="&ns_flows;" trait="textcontent" varName="RioDeJaneiroMareHora4"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="RioDeJaneiroMareIcone1"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="RioDeJaneiroMareIcone2"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="RioDeJaneiroMareIcone3"></variable>
+				<variable category="&ns_vars;" trait="fileref" varName="RioDeJaneiroMareIcone4"></variable>
+			</variables>
+			<v:sampleDataSets xmlns:v="&ns_vars;" xmlns="&ns_custom;">
+				<v:sampleDataSet dataSetName="oglobo">
+					<textoBrasil>
+						<p></p>
+					</textoBrasil>
+					<textoRioDeJaneiro>
+						<p></p>
+					</textoRioDeJaneiro>
+					<textoPraias>
+						<p></p>
+					</textoPraias>
+					<textoOndas>
+						<p></p>
+					</textoOndas>
+					<textoVentos>
+						<p></p>
+					</textoVentos>
+					<viscondeDeMauaTemperaturaMinima>
+						<p>null</p>
+					</viscondeDeMauaTemperaturaMinima>
+					<petropolisTemperaturaMinima>
+						<p>null</p>
+					</petropolisTemperaturaMinima>
+					<teresopolisTemperaturaMinima>
+						<p>null</p>
+					</teresopolisTemperaturaMinima>
+					<novaFriburgoTemperaturaMinima>
+						<p>null</p>
+					</novaFriburgoTemperaturaMinima>
+					<santaMariaMadalenaTemperaturaMinima>
+						<p>null</p>
+					</santaMariaMadalenaTemperaturaMinima>
+					<resendeTemperaturaMinima>
+						<p>null</p>
+					</resendeTemperaturaMinima>
+					<voltaRedondaTemperaturaMinima>
+						<p>null</p>
+					</voltaRedondaTemperaturaMinima>
+					<barraMansaTemperaturaMinima>
+						<p>null</p>
+					</barraMansaTemperaturaMinima>
+					<barraDoPiraiTemperaturaMinima>
+						<p>null</p>
+					</barraDoPiraiTemperaturaMinima>
+					<valencaTemperaturaMinima>
+						<p>null</p>
+					</valencaTemperaturaMinima>
+					<paraibaDoSulTemperaturaMinima>
+						<p>null</p>
+					</paraibaDoSulTemperaturaMinima>
+					<paratyTemperaturaMinima>
+						<p>null</p>
+					</paratyTemperaturaMinima>
+					<angraDosReisTemperaturaMinima>
+						<p>null</p>
+					</angraDosReisTemperaturaMinima>
+					<mangaratibaTemperaturaMinima>
+						<p>null</p>
+					</mangaratibaTemperaturaMinima>
+					<rioDeJaneiroTemperaturaMinima>
+						<p>null</p>
+					</rioDeJaneiroTemperaturaMinima>
+					<duqueDeCaxiasTemperaturaMinima>
+						<p>null</p>
+					</duqueDeCaxiasTemperaturaMinima>
+					<niteroiTemperaturaMinima>
+						<p>null</p>
+					</niteroiTemperaturaMinima>
+					<cachoeirasDeMacacuTemperaturaMinima>
+						<p>null</p>
+					</cachoeirasDeMacacuTemperaturaMinima>
+					<silvaJardimTemperaturaMinima>
+						<p>null</p>
+					</silvaJardimTemperaturaMinima>
+					<casimiroDeAbreuTemperaturaMinima>
+						<p>null</p>
+					</casimiroDeAbreuTemperaturaMinima>
+					<maricaTemperaturaMinima>
+						<p>null</p>
+					</maricaTemperaturaMinima>
+					<saquaremaTemperaturaMinima>
+						<p>null</p>
+					</saquaremaTemperaturaMinima>
+					<araruamaTemperaturaMinima>
+						<p>null</p>
+					</araruamaTemperaturaMinima>
+					<caboFrioTemperaturaMinima>
+						<p>null</p>
+					</caboFrioTemperaturaMinima>
+					<buziosTemperaturaMinima>
+						<p>null</p>
+					</buziosTemperaturaMinima>
+					<rioDasOstrasTemperaturaMinima>
+						<p>null</p>
+					</rioDasOstrasTemperaturaMinima>
+					<macaeTemperaturaMinima>
+						<p>null</p>
+					</macaeTemperaturaMinima>
+					<saoJoaoDaBarraTemperaturaMinima>
+						<p>null</p>
+					</saoJoaoDaBarraTemperaturaMinima>
+					<camposDosGoytacazesTemperaturaMinima>
+						<p>null</p>
+					</camposDosGoytacazesTemperaturaMinima>
+					<saoFidelisTemperaturaMinima>
+						<p>null</p>
+					</saoFidelisTemperaturaMinima>
+					<santoAntonioDePaduaTemperaturaMinima>
+						<p>null</p>
+					</santoAntonioDePaduaTemperaturaMinima>
+					<itaperunaTemperaturaMinima>
+						<p>null</p>
+					</itaperunaTemperaturaMinima>
+					<bomJesusDoItabapoanaTemperaturaMinima>
+						<p>null</p>
+					</bomJesusDoItabapoanaTemperaturaMinima>
+					<porciunculaTemperaturaMinima>
+						<p>null</p>
+					</porciunculaTemperaturaMinima>
+					<saoPedroDaAldeiaTemperaturaMinima>
+						<p>null</p>
+					</saoPedroDaAldeiaTemperaturaMinima>
+					<saoFranciscoDeItabapoanaTemperaturaMinima>
+						<p>null</p>
+					</saoFranciscoDeItabapoanaTemperaturaMinima>
+					<manausTemperaturaMinima>
+						<p>null</p>
+					</manausTemperaturaMinima>
+					<rioBrancoTemperaturaMinima>
+						<p>null</p>
+					</rioBrancoTemperaturaMinima>
+					<macapaTemperaturaMinima>
+						<p>null</p>
+					</macapaTemperaturaMinima>
+					<portoVelhoTemperaturaMinima>
+						<p>null</p>
+					</portoVelhoTemperaturaMinima>
+					<palmasTemperaturaMinima>
+						<p>null</p>
+					</palmasTemperaturaMinima>
+					<boaVistaTemperaturaMinima>
+						<p>null</p>
+					</boaVistaTemperaturaMinima>
+					<belemTemperaturaMinima>
+						<p>null</p>
+					</belemTemperaturaMinima>
+					<aracajuTemperaturaMinima>
+						<p>null</p>
+					</aracajuTemperaturaMinima>
+					<maceioTemperaturaMinima>
+						<p>null</p>
+					</maceioTemperaturaMinima>
+					<recifeTemperaturaMinima>
+						<p>null</p>
+					</recifeTemperaturaMinima>
+					<joaoPessoaTemperaturaMinima>
+						<p>null</p>
+					</joaoPessoaTemperaturaMinima>
+					<natalTemperaturaMinima>
+						<p>null</p>
+					</natalTemperaturaMinima>
+					<fortalezaTemperaturaMinima>
+						<p>null</p>
+					</fortalezaTemperaturaMinima>
+					<teresinaTemperaturaMinima>
+						<p>null</p>
+					</teresinaTemperaturaMinima>
+					<saoLuisTemperaturaMinima>
+						<p>null</p>
+					</saoLuisTemperaturaMinima>
+					<salvadorTemperaturaMinima>
+						<p>null</p>
+					</salvadorTemperaturaMinima>
+					<cuiabaTemperaturaMinima>
+						<p>null</p>
+					</cuiabaTemperaturaMinima>
+					<goianiaTemperaturaMinima>
+						<p>null</p>
+					</goianiaTemperaturaMinima>
+					<brasiliaTemperaturaMinima>
+						<p>null</p>
+					</brasiliaTemperaturaMinima>
+					<campoGrandeTemperaturaMinima>
+						<p>null</p>
+					</campoGrandeTemperaturaMinima>
+					<beloHorizonteTemperaturaMinima>
+						<p>null</p>
+					</beloHorizonteTemperaturaMinima>
+					<vitoriaTemperaturaMinima>
+						<p>null</p>
+					</vitoriaTemperaturaMinima>
+					<saoPauloTemperaturaMinima>
+						<p>null</p>
+					</saoPauloTemperaturaMinima>
+					<curitibaTemperaturaMinima>
+						<p>null</p>
+					</curitibaTemperaturaMinima>
+					<florianopolisTemperaturaMinima>
+						<p>null</p>
+					</florianopolisTemperaturaMinima>
+					<portoAlegreTemperaturaMinima>
+						<p>null</p>
+					</portoAlegreTemperaturaMinima>
+					<viscondeDeMauaTemperaturaMaxima>
+						<p>null</p>
+					</viscondeDeMauaTemperaturaMaxima>
+					<petropolisTemperaturaMaxima>
+						<p>null</p>
+					</petropolisTemperaturaMaxima>
+					<teresopolisTemperaturaMaxima>
+						<p>null</p>
+					</teresopolisTemperaturaMaxima>
+					<novaFriburgoTemperaturaMaxima>
+						<p>null</p>
+					</novaFriburgoTemperaturaMaxima>
+					<santaMariaMadalenaTemperaturaMaxima>
+						<p>null</p>
+					</santaMariaMadalenaTemperaturaMaxima>
+					<resendeTemperaturaMaxima>
+						<p>null</p>
+					</resendeTemperaturaMaxima>
+					<voltaRedondaTemperaturaMaxima>
+						<p>null</p>
+					</voltaRedondaTemperaturaMaxima>
+					<barraMansaTemperaturaMaxima>
+						<p>null</p>
+					</barraMansaTemperaturaMaxima>
+					<barraDoPiraiTemperaturaMaxima>
+						<p>null</p>
+					</barraDoPiraiTemperaturaMaxima>
+					<valencaTemperaturaMaxima>
+						<p>null</p>
+					</valencaTemperaturaMaxima>
+					<paraibaDoSulTemperaturaMaxima>
+						<p>null</p>
+					</paraibaDoSulTemperaturaMaxima>
+					<paratyTemperaturaMaxima>
+						<p>null</p>
+					</paratyTemperaturaMaxima>
+					<angraDosReisTemperaturaMaxima>
+						<p>null</p>
+					</angraDosReisTemperaturaMaxima>
+					<mangaratibaTemperaturaMaxima>
+						<p>null</p>
+					</mangaratibaTemperaturaMaxima>
+					<rioDeJaneiroTemperaturaMaxima>
+						<p>null</p>
+					</rioDeJaneiroTemperaturaMaxima>
+					<duqueDeCaxiasTemperaturaMaxima>
+						<p>null</p>
+					</duqueDeCaxiasTemperaturaMaxima>
+					<niteroiTemperaturaMaxima>
+						<p>null</p>
+					</niteroiTemperaturaMaxima>
+					<cachoeirasDeMacacuTemperaturaMaxima>
+						<p>null</p>
+					</cachoeirasDeMacacuTemperaturaMaxima>
+					<silvaJardimTemperaturaMaxima>
+						<p>null</p>
+					</silvaJardimTemperaturaMaxima>
+					<casimiroDeAbreuTemperaturaMaxima>
+						<p>null</p>
+					</casimiroDeAbreuTemperaturaMaxima>
+					<maricaTemperaturaMaxima>
+						<p>null</p>
+					</maricaTemperaturaMaxima>
+					<saquaremaTemperaturaMaxima>
+						<p>null</p>
+					</saquaremaTemperaturaMaxima>
+					<araruamaTemperaturaMaxima>
+						<p>null</p>
+					</araruamaTemperaturaMaxima>
+					<caboFrioTemperaturaMaxima>
+						<p>null</p>
+					</caboFrioTemperaturaMaxima>
+					<buziosTemperaturaMaxima>
+						<p>null</p>
+					</buziosTemperaturaMaxima>
+					<rioDasOstrasTemperaturaMaxima>
+						<p>null</p>
+					</rioDasOstrasTemperaturaMaxima>
+					<macaeTemperaturaMaxima>
+						<p>null</p>
+					</macaeTemperaturaMaxima>
+					<saoJoaoDaBarraTemperaturaMaxima>
+						<p>null</p>
+					</saoJoaoDaBarraTemperaturaMaxima>
+					<camposDosGoytacazesTemperaturaMaxima>
+						<p>null</p>
+					</camposDosGoytacazesTemperaturaMaxima>
+					<saoFidelisTemperaturaMaxima>
+						<p>null</p>
+					</saoFidelisTemperaturaMaxima>
+					<santoAntonioDePaduaTemperaturaMaxima>
+						<p>null</p>
+					</santoAntonioDePaduaTemperaturaMaxima>
+					<itaperunaTemperaturaMaxima>
+						<p>null</p>
+					</itaperunaTemperaturaMaxima>
+					<bomJesusDoItabapoanaTemperaturaMaxima>
+						<p>null</p>
+					</bomJesusDoItabapoanaTemperaturaMaxima>
+					<porciunculaTemperaturaMaxima>
+						<p>null</p>
+					</porciunculaTemperaturaMaxima>
+					<saoPedroDaAldeiaTemperaturaMaxima>
+						<p>null</p>
+					</saoPedroDaAldeiaTemperaturaMaxima>
+					<saoFranciscoDeItabapoanaTemperaturaMaxima>
+						<p>null</p>
+					</saoFranciscoDeItabapoanaTemperaturaMaxima>
+					<manausTemperaturaMaxima>
+						<p>null</p>
+					</manausTemperaturaMaxima>
+					<rioBrancoTemperaturaMaxima>
+						<p>null</p>
+					</rioBrancoTemperaturaMaxima>
+					<macapaTemperaturaMaxima>
+						<p>null</p>
+					</macapaTemperaturaMaxima>
+					<portoVelhoTemperaturaMaxima>
+						<p>null</p>
+					</portoVelhoTemperaturaMaxima>
+					<palmasTemperaturaMaxima>
+						<p>null</p>
+					</palmasTemperaturaMaxima>
+					<boaVistaTemperaturaMaxima>
+						<p>null</p>
+					</boaVistaTemperaturaMaxima>
+					<belemTemperaturaMaxima>
+						<p>null</p>
+					</belemTemperaturaMaxima>
+					<aracajuTemperaturaMaxima>
+						<p>null</p>
+					</aracajuTemperaturaMaxima>
+					<maceioTemperaturaMaxima>
+						<p>null</p>
+					</maceioTemperaturaMaxima>
+					<recifeTemperaturaMaxima>
+						<p>null</p>
+					</recifeTemperaturaMaxima>
+					<joaoPessoaTemperaturaMaxima>
+						<p>null</p>
+					</joaoPessoaTemperaturaMaxima>
+					<natalTemperaturaMaxima>
+						<p>null</p>
+					</natalTemperaturaMaxima>
+					<fortalezaTemperaturaMaxima>
+						<p>null</p>
+					</fortalezaTemperaturaMaxima>
+					<teresinaTemperaturaMaxima>
+						<p>null</p>
+					</teresinaTemperaturaMaxima>
+					<saoLuisTemperaturaMaxima>
+						<p>null</p>
+					</saoLuisTemperaturaMaxima>
+					<salvadorTemperaturaMaxima>
+						<p>null</p>
+					</salvadorTemperaturaMaxima>
+					<cuiabaTemperaturaMaxima>
+						<p>null</p>
+					</cuiabaTemperaturaMaxima>
+					<goianiaTemperaturaMaxima>
+						<p>null</p>
+					</goianiaTemperaturaMaxima>
+					<brasiliaTemperaturaMaxima>
+						<p>null</p>
+					</brasiliaTemperaturaMaxima>
+					<campoGrandeTemperaturaMaxima>
+						<p>null</p>
+					</campoGrandeTemperaturaMaxima>
+					<beloHorizonteTemperaturaMaxima>
+						<p>null</p>
+					</beloHorizonteTemperaturaMaxima>
+					<vitoriaTemperaturaMaxima>
+						<p>null</p>
+					</vitoriaTemperaturaMaxima>
+					<saoPauloTemperaturaMaxima>
+						<p>null</p>
+					</saoPauloTemperaturaMaxima>
+					<curitibaTemperaturaMaxima>
+						<p>null</p>
+					</curitibaTemperaturaMaxima>
+					<florianopolisTemperaturaMaxima>
+						<p>null</p>
+					</florianopolisTemperaturaMaxima>
+					<portoAlegreTemperaturaMaxima>
+						<p>null</p>
+					</portoAlegreTemperaturaMaxima>
+					<viscondeDeMauaIcone>null</viscondeDeMauaIcone>
+					<petropolisIcone>null</petropolisIcone>
+					<teresopolisIcone>null</teresopolisIcone>
+					<novaFriburgoIcone>null</novaFriburgoIcone>
+					<santaMariaMadalenaIcone>null</santaMariaMadalenaIcone>
+					<resendeIcone>null</resendeIcone>
+					<voltaRedondaIcone>null</voltaRedondaIcone>
+					<barraMansaIcone>null</barraMansaIcone>
+					<barraDoPiraiIcone>null</barraDoPiraiIcone>
+					<valencaIcone>null</valencaIcone>
+					<paraibaDoSulIcone>null</paraibaDoSulIcone>
+					<paratyIcone>null</paratyIcone>
+					<angraDosReisIcone>null</angraDosReisIcone>
+					<mangaratibaIcone>null</mangaratibaIcone>
+					<rioDeJaneiroIcone>null</rioDeJaneiroIcone>
+					<duqueDeCaxiasIcone>null</duqueDeCaxiasIcone>
+					<niteroiIcone>null</niteroiIcone>
+					<cachoeirasDeMacacuIcone>null</cachoeirasDeMacacuIcone>
+					<silvaJardimIcone>null</silvaJardimIcone>
+					<casimiroDeAbreuIcone>null</casimiroDeAbreuIcone>
+					<maricaIcone>null</maricaIcone>
+					<saquaremaIcone>null</saquaremaIcone>
+					<araruamaIcone>null</araruamaIcone>
+					<caboFrioIcone>null</caboFrioIcone>
+					<buziosIcone>null</buziosIcone>
+					<rioDasOstrasIcone>null</rioDasOstrasIcone>
+					<macaeIcone>null</macaeIcone>
+					<saoJoaoDaBarraIcone>null</saoJoaoDaBarraIcone>
+					<camposDosGoytacazesIcone>null</camposDosGoytacazesIcone>
+					<saoFidelisIcone>null</saoFidelisIcone>
+					<santoAntonioDePaduaIcone>null</santoAntonioDePaduaIcone>
+					<itaperunaIcone>null</itaperunaIcone>
+					<bomJesusDoItabapoanaIcone>null</bomJesusDoItabapoanaIcone>
+					<porciunculaIcone>null</porciunculaIcone>
+					<saoPedroDaAldeiaIcone>null</saoPedroDaAldeiaIcone>
+					<saoFranciscoDeItabapoanaIcone>null</saoFranciscoDeItabapoanaIcone>
+					<manausIcone>null</manausIcone>
+					<rioBrancoIcone>null</rioBrancoIcone>
+					<macapaIcone>null</macapaIcone>
+					<portoVelhoIcone>null</portoVelhoIcone>
+					<palmasIcone>null</palmasIcone>
+					<boaVistaIcone>null</boaVistaIcone>
+					<belemIcone>null</belemIcone>
+					<aracajuIcone>null</aracajuIcone>
+					<maceioIcone>null</maceioIcone>
+					<recifeIcone>null</recifeIcone>
+					<joaoPessoaIcone>null</joaoPessoaIcone>
+					<natalIcone>null</natalIcone>
+					<fortalezaIcone>null</fortalezaIcone>
+					<teresinaIcone>null</teresinaIcone>
+					<saoLuisIcone>null</saoLuisIcone>
+					<salvadorIcone>null</salvadorIcone>
+					<cuiabaIcone>null</cuiabaIcone>
+					<goianiaIcone>null</goianiaIcone>
+					<brasiliaIcone>null</brasiliaIcone>
+					<campoGrandeIcone>null</campoGrandeIcone>
+					<beloHorizonteIcone>null</beloHorizonteIcone>
+					<vitoriaIcone>null</vitoriaIcone>
+					<saoPauloIcone>null</saoPauloIcone>
+					<curitibaIcone>null</curitibaIcone>
+					<florianopolisIcone>null</florianopolisIcone>
+					<portoAlegreIcone>null</portoAlegreIcone>
+					<rioDeJaneiroIcone2>null</rioDeJaneiroIcone2>
+					<belemTemperaturaMinima2>
+						<p>null</p>
+					</belemTemperaturaMinima2>
+					<boaVistaTemperaturaMinima2>
+						<p>null</p>
+					</boaVistaTemperaturaMinima2>
+					<brasiliaTemperaturaMinima2>
+						<p>null</p>
+					</brasiliaTemperaturaMinima2>
+					<manausTemperaturaMinima2>
+						<p>null</p>
+					</manausTemperaturaMinima2>
+					<palmasTemperaturaMinima2>
+						<p>null</p>
+					</palmasTemperaturaMinima2>
+					<portoVelhoTemperaturaMinima2>
+						<p>null</p>
+					</portoVelhoTemperaturaMinima2>
+					<teresinaTemperaturaMinima2>
+						<p>null</p>
+					</teresinaTemperaturaMinima2>
+					<belemTemperaturaMaxima2>
+						<p>null</p>
+					</belemTemperaturaMaxima2>
+					<boaVistaTemperaturaMaxima2>
+						<p>null</p>
+					</boaVistaTemperaturaMaxima2>
+					<brasiliaTemperaturaMaxima2>
+						<p>null</p>
+					</brasiliaTemperaturaMaxima2>
+					<manausTemperaturaMaxima2>
+						<p>null</p>
+					</manausTemperaturaMaxima2>
+					<palmasTemperaturaMaxima2>
+						<p>null</p>
+					</palmasTemperaturaMaxima2>
+					<portoVelhoTemperaturaMaxima2>
+						<p>null</p>
+					</portoVelhoTemperaturaMaxima2>
+					<teresinaTemperaturaMaxima2>
+						<p>null</p>
+					</teresinaTemperaturaMaxima2>
+					<rioDeJaneiroTemperaturaMaxima2>
+						<p>null</p>
+					</rioDeJaneiroTemperaturaMaxima2>
+					<rioDeJaneiroTemperaturaMinima2>
+						<p>null</p>
+					</rioDeJaneiroTemperaturaMinima2>
+					<rioDeJaneiroIconePrimeiroDia>null</rioDeJaneiroIconePrimeiroDia>
+					<rioDeJaneiroIconeSegundoDia>null</rioDeJaneiroIconeSegundoDia>
+					<rioDeJaneiroIconeTerceiroDia>null</rioDeJaneiroIconeTerceiroDia>
+					<rioDeJaneiroIconeQuartoDia>null</rioDeJaneiroIconeQuartoDia>
+					<rioDeJaneiroIconeQuintoDia>null</rioDeJaneiroIconeQuintoDia>
+					<rioDeJaneiroIconeSextoDia>null</rioDeJaneiroIconeSextoDia>
+					<rioDeJaneiroIconeSetimoDia>null</rioDeJaneiroIconeSetimoDia>
+					<rioDeJaneiroZonaSulTemperaturaMinimaPrimeiroDia>
+						<p>null</p>
+					</rioDeJaneiroZonaSulTemperaturaMinimaPrimeiroDia>
+					<rioDeJaneiroZonaSulTemperaturaMinimaSegundoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaSulTemperaturaMinimaSegundoDia>
+					<rioDeJaneiroZonaSulTemperaturaMinimaTerceiroDia>
+						<p>null</p>
+					</rioDeJaneiroZonaSulTemperaturaMinimaTerceiroDia>
+					<rioDeJaneiroZonaSulTemperaturaMinimaQuartoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaSulTemperaturaMinimaQuartoDia>
+					<rioDeJaneiroZonaSulTemperaturaMinimaQuintoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaSulTemperaturaMinimaQuintoDia>
+					<rioDeJaneiroZonaSulTemperaturaMinimaSextoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaSulTemperaturaMinimaSextoDia>
+					<rioDeJaneiroZonaSulTemperaturaMinimaSetimoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaSulTemperaturaMinimaSetimoDia>
+					<rioDeJaneiroZonaSulTemperaturaMaximaPrimeiroDia>
+						<p>null</p>
+					</rioDeJaneiroZonaSulTemperaturaMaximaPrimeiroDia>
+					<rioDeJaneiroZonaSulTemperaturaMaximaSegundoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaSulTemperaturaMaximaSegundoDia>
+					<rioDeJaneiroZonaSulTemperaturaMaximaTerceiroDia>
+						<p>null</p>
+					</rioDeJaneiroZonaSulTemperaturaMaximaTerceiroDia>
+					<rioDeJaneiroZonaSulTemperaturaMaximaQuartoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaSulTemperaturaMaximaQuartoDia>
+					<rioDeJaneiroZonaSulTemperaturaMaximaQuintoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaSulTemperaturaMaximaQuintoDia>
+					<rioDeJaneiroZonaSulTemperaturaMaximaSextoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaSulTemperaturaMaximaSextoDia>
+					<rioDeJaneiroZonaSulTemperaturaMaximaSetimoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaSulTemperaturaMaximaSetimoDia>
+					<rioDeJaneiroZonaNorteTemperaturaMinimaPrimeiroDia>
+						<p>null</p>
+					</rioDeJaneiroZonaNorteTemperaturaMinimaPrimeiroDia>
+					<rioDeJaneiroZonaNorteTemperaturaMinimaSegundoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaNorteTemperaturaMinimaSegundoDia>
+					<rioDeJaneiroZonaNorteTemperaturaMinimaTerceiroDia>
+						<p>null</p>
+					</rioDeJaneiroZonaNorteTemperaturaMinimaTerceiroDia>
+					<rioDeJaneiroZonaNorteTemperaturaMinimaQuartoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaNorteTemperaturaMinimaQuartoDia>
+					<rioDeJaneiroZonaNorteTemperaturaMinimaQuintoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaNorteTemperaturaMinimaQuintoDia>
+					<rioDeJaneiroZonaNorteTemperaturaMinimaSextoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaNorteTemperaturaMinimaSextoDia>
+					<rioDeJaneiroZonaNorteTemperaturaMinimaSetimoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaNorteTemperaturaMinimaSetimoDia>
+					<rioDeJaneiroZonaNorteTemperaturaMaximaPrimeiroDia>
+						<p>null</p>
+					</rioDeJaneiroZonaNorteTemperaturaMaximaPrimeiroDia>
+					<rioDeJaneiroZonaNorteTemperaturaMaximaSegundoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaNorteTemperaturaMaximaSegundoDia>
+					<rioDeJaneiroZonaNorteTemperaturaMaximaTerceiroDia>
+						<p>null</p>
+					</rioDeJaneiroZonaNorteTemperaturaMaximaTerceiroDia>
+					<rioDeJaneiroZonaNorteTemperaturaMaximaQuartoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaNorteTemperaturaMaximaQuartoDia>
+					<rioDeJaneiroZonaNorteTemperaturaMaximaQuintoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaNorteTemperaturaMaximaQuintoDia>
+					<rioDeJaneiroZonaNorteTemperaturaMaximaSextoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaNorteTemperaturaMaximaSextoDia>
+					<rioDeJaneiroZonaNorteTemperaturaMaximaSetimoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaNorteTemperaturaMaximaSetimoDia>
+					<rioDeJaneiroZonaOesteTemperaturaMinimaPrimeiroDia>
+						<p>null</p>
+					</rioDeJaneiroZonaOesteTemperaturaMinimaPrimeiroDia>
+					<rioDeJaneiroZonaOesteTemperaturaMinimaSegundoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaOesteTemperaturaMinimaSegundoDia>
+					<rioDeJaneiroZonaOesteTemperaturaMinimaTerceiroDia>
+						<p>null</p>
+					</rioDeJaneiroZonaOesteTemperaturaMinimaTerceiroDia>
+					<rioDeJaneiroZonaOesteTemperaturaMinimaQuartoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaOesteTemperaturaMinimaQuartoDia>
+					<rioDeJaneiroZonaOesteTemperaturaMinimaQuintoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaOesteTemperaturaMinimaQuintoDia>
+					<rioDeJaneiroZonaOesteTemperaturaMinimaSextoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaOesteTemperaturaMinimaSextoDia>
+					<rioDeJaneiroZonaOesteTemperaturaMinimaSetimoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaOesteTemperaturaMinimaSetimoDia>
+					<rioDeJaneiroZonaOesteTemperaturaMaximaPrimeiroDia>
+						<p>null</p>
+					</rioDeJaneiroZonaOesteTemperaturaMaximaPrimeiroDia>
+					<rioDeJaneiroZonaOesteTemperaturaMaximaSegundoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaOesteTemperaturaMaximaSegundoDia>
+					<rioDeJaneiroZonaOesteTemperaturaMaximaTerceiroDia>
+						<p>null</p>
+					</rioDeJaneiroZonaOesteTemperaturaMaximaTerceiroDia>
+					<rioDeJaneiroZonaOesteTemperaturaMaximaQuartoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaOesteTemperaturaMaximaQuartoDia>
+					<rioDeJaneiroZonaOesteTemperaturaMaximaQuintoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaOesteTemperaturaMaximaQuintoDia>
+					<rioDeJaneiroZonaOesteTemperaturaMaximaSextoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaOesteTemperaturaMaximaSextoDia>
+					<rioDeJaneiroZonaOesteTemperaturaMaximaSetimoDia>
+						<p>null</p>
+					</rioDeJaneiroZonaOesteTemperaturaMaximaSetimoDia>
+					<rioDeJaneiroSensacaoTermicaMinimaPrimeiroDia>
+						<p>null</p>
+					</rioDeJaneiroSensacaoTermicaMinimaPrimeiroDia>
+					<rioDeJaneiroSensacaoTermicaMinimaSegundoDia>
+						<p>null</p>
+					</rioDeJaneiroSensacaoTermicaMinimaSegundoDia>
+					<rioDeJaneiroSensacaoTermicaMinimaTerceiroDia>
+						<p>null</p>
+					</rioDeJaneiroSensacaoTermicaMinimaTerceiroDia>
+					<rioDeJaneiroSensacaoTermicaMinimaQuartoDia>
+						<p>null</p>
+					</rioDeJaneiroSensacaoTermicaMinimaQuartoDia>
+					<rioDeJaneiroSensacaoTermicaMinimaQuintoDia>
+						<p>null</p>
+					</rioDeJaneiroSensacaoTermicaMinimaQuintoDia>
+					<rioDeJaneiroSensacaoTermicaMinimaSextoDia>
+						<p>null</p>
+					</rioDeJaneiroSensacaoTermicaMinimaSextoDia>
+					<rioDeJaneiroSensacaoTermicaMinimaSetimoDia>
+						<p>null</p>
+					</rioDeJaneiroSensacaoTermicaMinimaSetimoDia>
+					<rioDeJaneiroSensacaoTermicaMaximaPrimeiroDia>
+						<p>null</p>
+					</rioDeJaneiroSensacaoTermicaMaximaPrimeiroDia>
+					<rioDeJaneiroSensacaoTermicaMaximaSegundoDia>
+						<p>null</p>
+					</rioDeJaneiroSensacaoTermicaMaximaSegundoDia>
+					<rioDeJaneiroSensacaoTermicaMaximaTerceiroDia>
+						<p>null</p>
+					</rioDeJaneiroSensacaoTermicaMaximaTerceiroDia>
+					<rioDeJaneiroSensacaoTermicaMaximaQuartoDia>
+						<p>null</p>
+					</rioDeJaneiroSensacaoTermicaMaximaQuartoDia>
+					<rioDeJaneiroSensacaoTermicaMaximaQuintoDia>
+						<p>null</p>
+					</rioDeJaneiroSensacaoTermicaMaximaQuintoDia>
+					<rioDeJaneiroSensacaoTermicaMaximaSextoDia>
+						<p>null</p>
+					</rioDeJaneiroSensacaoTermicaMaximaSextoDia>
+					<rioDeJaneiroSensacaoTermicaMaximaSetimoDia>
+						<p>null</p>
+					</rioDeJaneiroSensacaoTermicaMaximaSetimoDia>
+					<rioDeJaneiroProbabilidadeDeChuvaPrimeiroDia>
+						<p>null</p>
+					</rioDeJaneiroProbabilidadeDeChuvaPrimeiroDia>
+					<rioDeJaneiroProbabilidadeDeChuvaSegundoDia>
+						<p>null</p>
+					</rioDeJaneiroProbabilidadeDeChuvaSegundoDia>
+					<rioDeJaneiroProbabilidadeDeChuvaTerceiroDia>
+						<p>null</p>
+					</rioDeJaneiroProbabilidadeDeChuvaTerceiroDia>
+					<rioDeJaneiroProbabilidadeDeChuvaQuartoDia>
+						<p>null</p>
+					</rioDeJaneiroProbabilidadeDeChuvaQuartoDia>
+					<rioDeJaneiroProbabilidadeDeChuvaQuintoDia>
+						<p>null</p>
+					</rioDeJaneiroProbabilidadeDeChuvaQuintoDia>
+					<rioDeJaneiroProbabilidadeDeChuvaSextoDia>
+						<p>null</p>
+					</rioDeJaneiroProbabilidadeDeChuvaSextoDia>
+					<rioDeJaneiroProbabilidadeDeChuvaSetimoDia>
+						<p>Baixa</p>
+					</rioDeJaneiroProbabilidadeDeChuvaSetimoDia>
+					<terceiroDiaDaSemana>
+						<p>SEXTA</p>
+					</terceiroDiaDaSemana>
+					<quartoDiaDaSemana>
+						<p>SÁBADO</p>
+					</quartoDiaDaSemana>
+					<quintoDiaDaSemana>
+						<p>DOMINGO</p>
+					</quintoDiaDaSemana>
+					<sextoDiaDaSemana>
+						<p>SEGUNDA</p>
+					</sextoDiaDaSemana>
+					<setimoDiaDaSemana>
+						<p>TERÇA</p>
+					</setimoDiaDaSemana>
+					<RioDeJaneiroNascerDoSol>
+						<p>null</p>
+					</RioDeJaneiroNascerDoSol>
+					<RioDeJaneiroPorDoSol>
+						<p>null</p>
+					</RioDeJaneiroPorDoSol>
+					<dataLuaCheia>
+						<p>null</p>
+					</dataLuaCheia>
+					<dataLuaMinguante>
+						<p>null</p>
+					</dataLuaMinguante>
+					<dataLuaNova>
+						<p>null</p>
+					</dataLuaNova>
+					<dataLuaCrescente>
+						<p>null</p>
+					</dataLuaCrescente>
+					<RioDeJaneiroMareAltura1>
+						<p>null</p>
+					</RioDeJaneiroMareAltura1>
+					<RioDeJaneiroMareHora1>
+						<p>null</p>
+					</RioDeJaneiroMareHora1>
+					<RioDeJaneiroMareIcone1>null</RioDeJaneiroMareIcone1>
+					<RioDeJaneiroMareAltura2>
+						<p>null</p>
+					</RioDeJaneiroMareAltura2>
+					<RioDeJaneiroMareHora2>
+						<p>null</p>
+					</RioDeJaneiroMareHora2>
+					<RioDeJaneiroMareIcone2>null</RioDeJaneiroMareIcone2>
+					<RioDeJaneiroMareAltura3>
+						<p>null</p>
+					</RioDeJaneiroMareAltura3>
+					<RioDeJaneiroMareHora3>
+						<p>null</p>
+					</RioDeJaneiroMareHora3>
+					<RioDeJaneiroMareIcone3>null</RioDeJaneiroMareIcone3>
+					<RioDeJaneiroMareAltura4>
+						<p>null</p>
+					</RioDeJaneiroMareAltura4>
+					<RioDeJaneiroMareHora4>
+						<p>null</p>
+					</RioDeJaneiroMareHora4>
+					<RioDeJaneiroMareIcone4>null</RioDeJaneiroMareIcone4>
+				</v:sampleDataSet>
+			</v:sampleDataSets>
+		</variableSet>
+	</variableSets>
+</svg>

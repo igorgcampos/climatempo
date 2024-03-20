@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "climatempo"
+version = "1.0.0"
+description = ""
+authors = ["Giovani Liskoski Zanini <giovanilzanini@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+cloud-components = "3.0.1"
+loguru = "^0.7.2"
+boto3 = "^1.28.83"
+python-dotenv = "^1.0.0"
+beautifulsoup4 = "^4.12.2"
+lxml = "^4.9.3"
+requests = "^2.31.0"
+unidecode = "^1.3.7"
+ephem = "^4.1.5"
+schedule = "^1.2.1"
+pytz = "^2023.3.post1"
+xmltodict = "^0.13.0"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.11.0"
+pylint = "^3.0.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
